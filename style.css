@@ -85,14 +85,15 @@ a {
 	text-align: center;
 }
 
-.button-style {
-	text-align: center;
-}
-
 #bask-img {
 	border-radius: 5%;
 }
 
-#CV-style {
-	padding-left: 68px;
+.outro {
+	display: flex;
+}
+
+.button-style {
+	position: absolute;
+	left: 46%;
 }
