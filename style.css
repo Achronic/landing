@@ -97,3 +97,7 @@ a {
 	position: absolute;
 	left: 46%;
 }
+
+#cvInfo {
+	margin: 12px;
+}
